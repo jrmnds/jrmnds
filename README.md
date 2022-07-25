@@ -3,7 +3,7 @@
 My name is Reginaldo Mendes and i'm a Software Engineer/Android Developer. I'm from Brazil, Living in São Paulo and currently working for NTT DATA.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reginaldo-mendes-3b768516a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-mendes-3b768516a/) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discordapp.com/users/3471)
 
 ## 💻 Tech Stack:
