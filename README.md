@@ -1,6 +1,6 @@
 # Hey, there stranger <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-My name is Reginaldo Mendes and i'm a Software Engineer/Android Developer. I'm from Brazil, Living in São Paulo and currently working for NTT DATA.
+My name is Reginaldo Mendes and i'm a Software Engineer/Android Developer. I'm from Brazil, Living in Rotterdam, NL and currently working for CoolBlue.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-mendes-3b768516a/) 
